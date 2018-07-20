@@ -1,0 +1,10 @@
+WELCOME TO CHAMA MANAGEMENT SYSTEM HELP GUIDE. 
+
+Chama Management System is an integrated financial management system for Rarua Nyama Investment Group.
+
+1. To register a new member, Select option 1 from the main menu
+2. To edit and update existing records, Select option 2 from the Main menu
+3. If you want to delete a record, Select option 3 from the Main menu
+
+NB:
+1. Deleted records are permanently removed from the sytem
